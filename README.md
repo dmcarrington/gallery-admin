@@ -4,6 +4,6 @@ This is a temporary solution for uploading images to Cloudinary, and creating th
 
 ## Usage
 
-Set up the environment variables in .env, with the keys to your Cloudinary account, Mongodb account, and LNbits. Once complete, run `yarn install` to install the dependencies, then `yarn run dev` to start the application. Connect to `http://localhost:3000` to access the app.
+Set up the environment variables in .env, with the keys to your Cloudinary account, Mongodb account, and LNbits. Once complete, run `yarn install` to install the dependencies, then `yarn dev` to start the application. Connect to `http://localhost:3000` to access the app.
 
 Now you can use the `Upload` button to upload images one at a time to the Cloudinary gallery. Note that the free Cloudinary tier limits image sizes to 10MB.
